@@ -4,7 +4,7 @@ This repository contains the public question bank, survey results, random visual
 
 ## Why Survey
 
-I enjoy taking Stack Overflow Developer survey, and seeing a comparison of technology in use, even if I don't use the technologies in question. I thought it would be fun to see the similar things within Christianity. How do beliefs differ between denominations, what is the same, and allow the community to answer.
+I enjoy taking Stack Overflow Developer survey, and seeing a comparison of technology in use, even if I don't use the technologies in question. I thought it would be fun to see the similar things within Christianity. How do beliefs differ between denominations, what is the same, and allow the Christian community to answer. I'm unaware of any other global Christian survey that allows anyone to answer, has the number of topics, or public visibility of answers after the fact.
 
 ## Start here
 
@@ -19,8 +19,7 @@ Example suggestion
 Title: Ask whether Christians believe X
 
 Suggestion:
-Add a question about whether respondents believe X,
-Y, Z, or Other.
+Add a question about whether respondents believe X, Y, Z, or Other.
 
 Why this matters:
 This belief comes up in online discussions quite often and I'd like to get an overview of beliefs
@@ -31,3 +30,7 @@ Possible answers:
 - Z
 - Other
 ```
+
+## What this is not
+
+We follow the belief that if a denomination claims they are Christian, then they are Christian for all intents and purposes of the survey. This survey is not meant to prove one point of view, discredit any specific denomination, or get political. Differences should not divide us when we have shared belief in Jesus Christ.
