@@ -1,0 +1,12 @@
+question:
+  id: Gender
+  version: '2026.1'
+  title: What is your gender?
+  type: single_select
+  options:
+    - Male
+    - Female
+    - Prefer not to say
+    - Other
+  required: false
+  lines: single

@@ -1,0 +1,11 @@
+question:
+  id: Married
+  version: '2026.1'
+  title: Are you married?
+  type: single_select
+  options:
+    - Yes
+    - Never
+    - Previously
+  required: false
+  lines: single

@@ -1,0 +1,12 @@
+question:
+  id: DoYouClaimToBeChristian
+  version: '2026.1'
+  title: Do you claim/believe to be a Christian?
+  type: single_select
+  options:
+    - I am Christian
+    - I want to be Christian
+    - I used to be Christian
+    - I have never been Christian
+  required: false
+  lines: single

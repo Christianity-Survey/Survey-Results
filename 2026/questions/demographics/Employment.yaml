@@ -1,0 +1,16 @@
+question:
+  id: Employment
+  version: '2026.1'
+  title: Which of the following best describes your current employment status?
+  type: single_select
+  options:
+    - Employed
+    - Independent contractor, freelancer, or self-employed
+    - Not employed
+    - Student
+    - Retired
+    - I prefer not to say
+    - Stay at home parent
+    - Other
+  required: false
+  lines: single
