@@ -1,10 +1,10 @@
 # Charts/Graphs
 
 Pie Chart:
-- [Age of Survey Respondents](https://codepen.io/depperm/pen/OPWZJJY?editors=1010)
+- [Age of Survey Respondents](https://codepen.io/depperm/full/OPWZJJY)
 
 Sankey:
-- [Demographics](https://codepen.io/depperm/pen/qERYOMQ?editors=1011)
+- [Demographics](https://codepen.io/depperm/full/qERYOMQ)
 
 Radar:
-- [Bible is](https://codepen.io/depperm/pen/gbgzaqp?editors=1010)
+- [Bible is](https://codepen.io/depperm/full/gbgzaqp)
